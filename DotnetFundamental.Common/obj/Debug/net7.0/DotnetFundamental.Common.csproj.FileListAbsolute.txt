@@ -1,0 +1,11 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\bin\Debug\net7.0\DotnetFundamental.Common.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\bin\Debug\net7.0\DotnetFundamental.Common.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\bin\Debug\net7.0\DotnetFundamental.Common.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\refint\DotnetFundamental.Common.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\DotnetFundamental.Common.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\Bootcamp FullStack DIO\DotnetFundamental\DotnetFundamental.Common\obj\Debug\net7.0\ref\DotnetFundamental.Common.dll
